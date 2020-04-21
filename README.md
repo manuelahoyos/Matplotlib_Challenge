@@ -24,10 +24,10 @@ Finally, the percentage of tumor volume change for each drug was determined by c
 
 ## Observations:
 ### Three observable trends found during this analysis are the following:
-Over time, Capomulin is the only drug that reduces the tumor volume. For the other drugs, the tumor volume increases, meaning they are not effective. On the other hand, Capomulin shows an efficient result by decreasing tumor size. 
+- Over time, Capomulin is the only drug that reduces the tumor volume. For the other drugs, the tumor volume increases, meaning they are not effective. On the other hand, Capomulin shows an efficient result by decreasing tumor size. 
     
-When using Ketapril, the tumor volume increased even more than when using placebo. This means that Ketapril has an opposite effect to the desired decrease in tumor. 
+- When using Ketapril, the tumor volume increased even more than when using placebo. This means that Ketapril has an opposite effect to the desired decrease in tumor. 
     
-Capomulin has the best survival rate compared to the other three drugs. This means it produces the best desired effect on tumor treatment.
+- Capomulin has the best survival rate compared to the other three drugs. This means it produces the best desired effect on tumor treatment.
 
 
