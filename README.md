@@ -1,5 +1,5 @@
 # Matplotlib Challenge
-## Overview
+## Overview:
 The tumor response to several cancer treatments were compared for 250 mice over the course of 45 days. Changes in tumor volume, number of metastatic sites and survival rates were calculated and analyzed. The results were visualized using Matplotlib.
 
 ## Datasets:
