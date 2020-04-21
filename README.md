@@ -12,9 +12,15 @@ From the two datasets, DataFrames were created and merged on the mouse ID. First
 
 Second, the spread of the cancer as a response to each treatment was calculated for each treatment at every timepoint. This was determined by calculating the average number of metastatic sites. The standard error of average metastatic sites was calculated for each treatment at every timepoint and the results were graphed in a scatter plot using Matplotlib.
 
+![Image description](images/MetastaticSpread.png)
+
 Third, the survival rate as a response to each treatment was calculated for each treatment at every timepoint. This was achieved by counting the distinct mouse ID values for each treatment at every time point. The results were graphed in a scatter plot using Matplotlib.
 
+![Image description](images/SurvivalRate.png)
+
 Finally, the percentage of tumor volume change for each drug was determined by calculating the difference between the tumor volume during the first and last time points. The results were visualized in a bar graph using Matplotlib. 
+
+![Image description](images/BarGraph.png)
 
 ## Observations:
 ### Three observable trends found during this analysis are the following:
