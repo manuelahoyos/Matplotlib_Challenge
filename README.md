@@ -6,16 +6,13 @@ The tumor response to several cancer treatments were compared for 250 mice over 
 Two datasets were used in this analysis. The first called “mouse_drug_data.csv" contains the mouse ID and the treatment that was used. The second dataset called "clinicaltrial_data.csv" contains the mouse ID, and the tumor volume and metastatic sites at specific time points. 
 
 # Workflow:
-From the two datasets, DataFrames were created and merged on the mouse ID. First, the tumor response to treatment was determined by calculating the average tumor volume for each drug at each time point. This shows how the tumor volume changes over time for each treatment. Also, the standard error of tumor volumes was calculated for each treatment at every timepoint. The results were graphed in a scatter plot using Matplotlib. 
+From the two datasets, DataFrames were created and merged on the mouse ID. First, the tumor response to treatment was determined by calculating the average tumor volume for each drug at each time point. This shows how the tumor volume changes over time for each treatment. Also, the standard error of tumor volumes was calculated for each treatment at every timepoint and a pivot table was created to re format the DataFrame. The results were graphed in a scatter plot using Matplotlib. 
 
 Second, the spread of the cancer as a response to each treatment was calculated for each treatment at every timepoint. This was determined by calculating the average number of metastatic sites. The standard error of average metastatic sites was calculated for each treatment at every timepoint and the results were graphed in a scatter plot using Matplotlib.
 
+Third, the survival rate as a response to each treatment was calculated for each treatment at every timepoint. This was achieved by counting the distinct mouse ID values for each treatment at every time point. The results were graphed in a scatter plot using Matplotlib.
 
-•  Creating a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate) 
-
-
-•  Creating a bar graph that compares the total % tumor volume change for each drug across the full 45 days. 
-
+Finally, the total % tumor volume change for each drug was determined by calculating the difference between the tumor volume during the first and last time points. The results were visualized in bar graph using Matplotlib. 
 
 
 
