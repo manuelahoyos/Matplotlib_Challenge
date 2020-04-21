@@ -1,6 +1,6 @@
 # Matplotlib Challenge
 # Overview
-The tumor response to several cancer treatments were compared for 250 mice over the course of 45 days. Changes in tumor volume, number of metastatic sites and survival rate were calculated and analyzed. The results were visualized using Matplotlib.
+The tumor response to several cancer treatments were compared for 250 mice over the course of 45 days. Changes in tumor volume, number of metastatic sites and survival rates were calculated and analyzed. The results were visualized using Matplotlib.
 
 # Datasets:
 Two datasets were used in this analysis. The first called “mouse_drug_data.csv" contains the mouse ID and the treatment that was used. The second dataset called "clinicaltrial_data.csv" contains the mouse ID, and the tumor volume and metastatic sites at specific time points. 
@@ -14,7 +14,7 @@ Third, the survival rate as a response to each treatment was calculated for each
 
 Finally, the total % tumor volume change for each drug was determined by calculating the difference between the tumor volume during the first and last time points. The results were visualized in bar graph using Matplotlib. 
 
-Observations:
+# Observations:
 Three observable trends found during this analysis are the following:
 Over time, Capomulin is the only drug that reduces the tumor volume. For the other drugs, the tumor volume increases, meaning they are not effective. On the other hand, Capomulin shows an efficient result by decreasing tumor size. 
     
