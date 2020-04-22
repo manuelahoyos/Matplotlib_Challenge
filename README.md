@@ -20,7 +20,7 @@ Third, the survival rate as a response to each treatment was calculated for each
 
 Finally, the percentage of tumor volume change for each drug was determined by calculating the difference between the tumor volume during the first and last time points. The results were visualized in a bar graph using Matplotlib. 
 
-![Image description](images/BarGraph.png)
+<img src="images/BarGraph.png" width="600">
 
 ## Observations:
 ### Three observable trends found during this analysis are the following:
