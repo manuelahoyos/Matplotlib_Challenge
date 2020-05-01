@@ -6,7 +6,7 @@ The tumor response to several cancer treatments were compared for 250 mice over 
 
 ## Datasets:
 
-Two datasets were used in this analysis. The first called “mouse_drug_data.csv" contains the mouse ID and the treatment that was used. The second dataset called "clinicaltrial_data.csv" contains the mouse ID, and the tumor volume and metastatic sites at specific time points. 
+Two datasets were used in this analysis. The first called “mouse_drug_data.csv" contains the mouse ID and the treatment that was used. The second dataset called "clinicaltrial_data.csv" contains the mouse ID, as well as the tumor volume and metastatic sites at specific time points. 
 
 ## Workflow:
 
